@@ -1,0 +1,9 @@
+flask
+opencv-python
+easyocr
+pytesseract
+transformers
+torch
+textblob
+numpy
+
