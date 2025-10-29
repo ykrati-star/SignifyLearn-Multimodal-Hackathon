@@ -29,3 +29,4 @@ The solution is specifically designed for the challenges facing the education se
 
 1. Addresses a massive segment of **18 million+** citizens who lack adequate digital learning tools.
 2. Architecture is planned to support the eventual integration of **regional Indian Sign Language variations**, acknowledging India's linguistic diversity.
+# DATASET LINK FOR ISL - https://huggingface.co/datasets/bridgeconn/sign-dictionary-isl?utm_source=chatgpt.com
