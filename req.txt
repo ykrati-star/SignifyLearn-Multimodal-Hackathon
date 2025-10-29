@@ -1,0 +1,6 @@
+flask
+openai-whisper
+ffmpeg-python
+torch
+torchvision
+torchaudio
